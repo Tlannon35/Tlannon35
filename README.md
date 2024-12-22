@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Tlannon35 and I'm a student, from West Virginia</p>
+<p align="left">My name is Tyler and I'm a student, from West Virginia</p>
 
 ###
 
